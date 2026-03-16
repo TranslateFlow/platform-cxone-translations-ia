@@ -132,7 +132,6 @@
       "LegendTitle": "key",
       "NeutralFaceText": "Neutral",
       "SadFaceText": "Could use some work"
-
     },
     "rtigPhraseComponent": {
       "addAlert": "Add Alert",
@@ -230,7 +229,7 @@
       "emailChannelLabel": "Email Channel",
       "emailChannelTooltip": "Provide Copilot assistance for emails.",
       "emailEditingOptions": "Editing Options",
-      "emailChannelSimplify" : "Simplify",
+      "emailChannelSimplify": "Simplify",
       "emailChannelExpand": "Expand",
       "emailChannelRephrase": "Rephrase",
       "emailChannelCopilotSearch": "Copilot Search",

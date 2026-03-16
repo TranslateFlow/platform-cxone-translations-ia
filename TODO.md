@@ -1,5 +1,11 @@
 # TODO — TranslateFlow IA
 
+## -- RETROSPECTIVE --
+## Agregar agente de seguridad que no agregue otras cosas
+## Analizar MCP externo para auditar lo traducido
+## Cambios en el flujo, despues del primer check crear pr con otro modelo/s como revisor
+   
+ 
 ## 🔴 Blocker — CI / GitHub Actions
 
 - [ ] **Hablar con AWS Admin** para que agreguen `AmazonBedrockFullAccess` al rol/usuario de CI
